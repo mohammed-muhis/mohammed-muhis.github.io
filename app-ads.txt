@@ -302,7 +302,7 @@ adsinteractive.com,69996,RESELLER
 
 adsinteractive.com,814370,RESELLER
 
-adsphere360.com, 1042770, RESELLER,
+adsphere360.com, 1042770, RESELLER
 
 adswizz.com, 561, RESELLER
 
